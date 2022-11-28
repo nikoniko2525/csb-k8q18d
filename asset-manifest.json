@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nikoniko2525.github.io/csb-k8q18d/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nikoniko2525.github.io/csb-k8q18d/static/js/main.6dc99e84.chunk.js",
+    "main.js.map": "https://nikoniko2525.github.io/csb-k8q18d/static/js/main.6dc99e84.chunk.js.map",
+    "runtime-main.js": "https://nikoniko2525.github.io/csb-k8q18d/static/js/runtime-main.c1f0d7ca.js",
+    "runtime-main.js.map": "https://nikoniko2525.github.io/csb-k8q18d/static/js/runtime-main.c1f0d7ca.js.map",
+    "static/js/2.89de8c01.chunk.js": "https://nikoniko2525.github.io/csb-k8q18d/static/js/2.89de8c01.chunk.js",
+    "static/js/2.89de8c01.chunk.js.map": "https://nikoniko2525.github.io/csb-k8q18d/static/js/2.89de8c01.chunk.js.map",
+    "index.html": "https://nikoniko2525.github.io/csb-k8q18d/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nikoniko2525.github.io/csb-k8q18d/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.89de8c01.chunk.js.LICENSE.txt": "https://nikoniko2525.github.io/csb-k8q18d/static/js/2.89de8c01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1f0d7ca.js",
+    "static/js/2.89de8c01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6dc99e84.chunk.js"
+  ]
+}
